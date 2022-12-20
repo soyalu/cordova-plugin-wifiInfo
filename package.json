@@ -1,0 +1,22 @@
+{
+  "name": "@soyalu/cordova-plugin-wifiInfo",
+  "version": "1.0.0",
+  "description": "获取安卓wifi信息",
+  "cordova": {
+    "id": "@soyalu/cordova-plugin-wifiInfo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyalu/cordova-plugin-wifiInfo.git"
+  },
+  "keywords": [
+    "cordova",
+	  "wifi",
+    "cordova-android",
+  ],
+  "author": "soyalu",
+  "license": "Apache 2.0"
+}
